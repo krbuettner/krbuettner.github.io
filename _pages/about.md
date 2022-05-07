@@ -18,6 +18,7 @@ I currently work in the computer vision group with Dr. Adriana Kovashka at the U
 
 ## News 
 09-2021 I started in the Intelligent Systems program at the University of Pittsburgh. 
+
 05-2022 I began a machine learning internship at GatherAI. 
 
 ### Check out Blog periodically for blog posts about AI books, cool apps of AI, or side projects!
