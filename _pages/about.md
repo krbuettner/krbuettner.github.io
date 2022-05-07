@@ -10,7 +10,7 @@ redirect_from:
 
 I am Kyle, a Ph.D. student researcher in the Intelligent Systems program at the University of Pittsburgh. 
 
-My research interests are driven towards instilling users with better confidence and trust in AI systems through improving the robustness of such systems. A primary goal of mine is to make computer vision systems more robust and understandable for use in critical application areas ranging from logistics to autonomous driving to healthcare. 
+My research interests are driven towards instilling users with better confidence and trust in AI systems through improving the robustness of such systems. A primary goal of mine is to make computer vision systems more robust and understandable for use in critical application areas ranging from healthcare to autonomous driving to logistics. 
 
 Additional AI research interests of mine include object detection, self-supervision, model generalization, and multimodal learning.
 
@@ -18,12 +18,6 @@ I currently work in the computer vision group with Dr. Adriana Kovashka at the U
 
 ## Recent News 
 
-05-2022 I returned as a machine learning intern at GatherAI.
-
-09-2021 I enrolled in the Intelligent Systems Ph.D. program at the University of Pittsburgh. 
-
-05-2021 I started a summer machine learning internship at GatherAI.
-
-04-2021 I defended my M.S. thesis titled "A Case Study in Practical Neuromorphic Computing: Heartbeat Classification on the Loihi Neuromorphic Processor". Thanks to NSF SHREC for the support!
+05-2022 I am working this summer as a machine learning intern at GatherAI.
 
 ### Check out Blog periodically for blog posts about AI books, cool apps of AI, or side projects!
