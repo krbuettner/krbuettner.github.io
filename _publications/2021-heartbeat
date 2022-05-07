@@ -6,3 +6,5 @@ date: 2021
 venue: 'ISVLSI'
 paperurl: 'https://ieeexplore.ieee.org/document/9516760'
 ---
+
+We conduct a heartbeat classification case study on the Loihi neuromorphic processor, investigating accuracy and latency optimization strategies in artificial-to-spiking neural network conversion. We present benchmarking insights with regards to spiking 1D-CNN versus artificial 1D-CNN performance on state-of-the-art neural network accelerators. 
