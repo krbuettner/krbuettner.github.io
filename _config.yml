@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kyle Buettner"
 title_separator          : "-"
 name                     : &name "Kyle Buettner"
-description              : &description "Researcher"
+description              : &description "Ph.D Student Researcher"
 url                      : https://krbuettner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krbuettner/krbuettner.github.io"
@@ -83,12 +83,12 @@ author:
   name             : "Kyle Buettner"
   avatar           : "krb.jpg"
   bio              : "Researcher"
-  location         : "Location"
+  location         : "Pittsburgh, PA USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8exRRc8AAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "krbuettner"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
