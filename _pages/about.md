@@ -15,3 +15,9 @@ My research interests are driven towards instilling better confidence and trust 
 Specific AI research interests of mine include object detection, self-supervision, model generalization, and multimodal learning.
 
 I currently work in the computer vision group with Dr. Adriana Kovashka at the University of Pittsburgh. 
+
+## News 
+09-2021 I started in the Intelligent Systems program at the University of Pittsburgh. 
+05-2022 I began a machine learning internship at GatherAI. 
+
+### Check out Blog periodically for blog posts about AI books, cool apps of AI, or side projects!
