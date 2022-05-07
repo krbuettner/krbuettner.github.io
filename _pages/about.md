@@ -17,8 +17,11 @@ Additional AI research interests of mine include object detection, self-supervis
 I currently work in the computer vision group with Dr. Adriana Kovashka at the University of Pittsburgh. 
 
 ## News 
-09-2021 I started in the Intelligent Systems program at the University of Pittsburgh. 
 
-05-2022 I began a machine learning internship at GatherAI. 
+05-2022 I began a machine learning internship at GatherAI.
+
+09-2021 I enrolled in the Intelligent Systems Ph.D. program at the University of Pittsburgh. 
+
+04-2021 I defended my M.S. thesis titled "A Case Study in Practical Neuromorphic Computing: Heartbeat Classification on the Loihi Neuromorphic Processor". Thanks to NSF SHREC for the support!
 
 ### Check out Blog periodically for blog posts about AI books, cool apps of AI, or side projects!
