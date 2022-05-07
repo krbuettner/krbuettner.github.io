@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Kyle Buettner Website"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome!
 
 I am Kyle, a Ph.D. student researcher in the Intelligent Systems program at the University of Pittsburgh. 
 
