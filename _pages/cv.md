@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(CV pdf to be added)
+[CV](http://academicpages.github.io/files/buettner_kyle_CV_may22.pdf)
 
 ## Education
 
