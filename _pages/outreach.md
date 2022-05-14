@@ -5,5 +5,6 @@ permalink: /outreach/
 author_profile: true
 ---
 
-Currently, a video game design volunteer at Pitt CEC (Community Engagement Center - Hill District). 
-https://cec.pitt.edu/
+Currently, I volunteer as a teacher of video game design as part of Pitt CEC (Community Engagement Center - Hill District). 
+
+For more information please check out: [https://cec.pitt.edu/]
