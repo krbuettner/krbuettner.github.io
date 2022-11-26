@@ -18,5 +18,5 @@ I currently work in the computer vision group with Dr. Adriana Kovashka at the U
 
 ## Recent News 
 
-11-2022 A paper has been accepted to AAAI Workshop on Practical Deep Learning in the Wild 2023.  
-05-2022 I am working this summer as a machine learning intern at GatherAI.
+**11-2022** One paper has been accepted to the AAAI Workshop on Practical Deep Learning in the Wild 2023.  
+**05-2022** I am working this summer as a machine learning intern at GatherAI.
