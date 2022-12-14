@@ -1,0 +1,11 @@
+---
+title: "Contrastive View Design Strategies to Enhance Robustness to Domain Shifts in Downstream Object Detection"
+collection: publications
+permalink: /publication/2023-robustviews
+date: 2023
+venue: '2023 AAAI Workshop on Practical Deep Learning in the Wild (Practical-DL)'
+paperurl: 'https://arxiv.org/abs/2212.04613'
+---
+
+We propose strategies to improve the out-of-domain robustness of contrastively pretrained object detectors. In particular, we augment contrastive views to learn representations that are more robust to appearance-based and out-of-context domain shifts.   
+
