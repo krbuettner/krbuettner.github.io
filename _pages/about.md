@@ -17,6 +17,6 @@ Specific AI research interests of mine include computer vision, object detection
 I currently work in the computer vision group with Dr. Adriana Kovashka at the University of Pittsburgh. 
 
 ## Recent News 
-
+**04-2023** One extended abstract has been accepted to the CVPR Workshop on Open-Domain Reasoning Under Multi-Modal Settings 2023. 
 **11-2022** One paper has been accepted to the AAAI Workshop on Practical Deep Learning in the Wild 2023.  
 **05-2022** I am working this summer as a machine learning intern at GatherAI.
