@@ -10,9 +10,14 @@ redirect_from:
 
 I am Kyle, a Ph.D. student researcher in the Intelligent Systems program at the University of Pittsburgh. 
 
-My research interests are driven towards instilling users with better confidence and trust in AI systems through improving the robustness of such systems. A primary goal of mine is to make computer vision systems more robust and understandable for use in application areas ranging from healthcare to autonomous driving to logistics. 
+Overall, I am interested in studying ways to ensure that object-based AI systems can effectively interpret natural language and handle common distribution shifts. 
 
-Specific AI research interests of mine include computer vision, object detection, domain robustness, contrastive learning, and multimodal learning.
+Specific research interests of mine include:
+- Vision-language modeling
+- Model robustness under domain shift
+- Foundational AI models
+- Object detection
+- Prompt learning
 
 I currently work in the computer vision group with Dr. Adriana Kovashka at the University of Pittsburgh. 
 
