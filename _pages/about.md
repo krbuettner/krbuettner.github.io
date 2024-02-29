@@ -23,6 +23,8 @@ I currently work in the computer vision group with Dr. Adriana Kovashka at the U
 
 ## Recent News 
 
+**02-2024** One paper has been accepted to the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR) 2024. 
+
 **10-2023** One paper has been accepted to the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2024. 
 
 **04-2023** One extended abstract has been accepted to the CVPR Workshop on Open-Domain Reasoning Under Multi-Modal Settings 2023. 
