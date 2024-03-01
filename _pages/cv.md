@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV Here](http://krbuettner.github.io/files/buettner_cv_jan2024.pdf)
+[Download CV Here](http://krbuettner.github.io/files/buettner_cv_march2024.pdf)
 
 ## Education
 
