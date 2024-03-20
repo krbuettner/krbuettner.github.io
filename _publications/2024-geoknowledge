@@ -7,4 +7,6 @@ venue: '2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVP
 paperurl: 'https://arxiv.org/abs/2401.01482'
 ---
 
+<img src="../files/scratch_ex.PNG" width="400">
+
 We analyze how context in class text representations of VL models affects geographical robustness in object recognition. We propose to ensure geographical robustness in soft prompting through a new geography knowledge regularization method.
