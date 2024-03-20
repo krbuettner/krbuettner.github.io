@@ -1,0 +1,10 @@
+---
+title: "Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition"
+collection: publications
+permalink: /publication/2024-geoknowledge
+date: 2024-06-17
+venue: '2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
+paperurl: 'https://arxiv.org/abs/2401.01482'
+---
+
+We analyze how context in class text representations of VL models affects geographical robustness in object recognition. We propose to ensure geographical robustness in soft prompting through a new geography knowledge regularization method.
