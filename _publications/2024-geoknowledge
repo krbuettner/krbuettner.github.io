@@ -6,7 +6,6 @@ date: 2024-06-17
 venue: '2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://arxiv.org/abs/2401.01482'
 ---
-
-<img src="../files/cvpr24_ex.PNG" width="200">
-
 We analyze how context in class text representations of VL models affects geographical robustness in object recognition. We propose to ensure geographical robustness in soft prompting through a new geography knowledge regularization method.
+
+<img src="../files/cvpr24_ex.PNG" width="400">
