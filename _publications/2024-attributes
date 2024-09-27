@@ -3,7 +3,7 @@ title: "Investigating the Role of Attribute Context in Vision-Language Models fo
 collection: publications
 permalink: /publication/2024-attributes
 date: 2024-01-04
-venue: '2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
+venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 paperurl: 'https://openaccess.thecvf.com/content/WACV2024/html/Buettner_Investigating_the_Role_of_Attribute_Context_in_Vision-Language_Models_for_WACV_2024_paper.html'
 ---
 We analyze if attributes in captions that supervise VL models result in useful representations for fine-grained tasks. We find models have limited fine-grained utility, so we propose a negative sampling strategy in contrastive learning to improve attribute sensitivity.  
