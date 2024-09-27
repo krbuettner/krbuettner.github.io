@@ -24,6 +24,8 @@ I currently work in the computer vision group with Dr. Adriana Kovashka at the U
 
 ## Recent News 
 
+**09-2024** One paper has been accepted to the Empirical Methods in Natural Language Processing (EMNLP) (Short) 2024.
+
 **06-2024** I am working this summer as an Applied Scientist Intern at Amazon.
 
 **04-2024** One paper has been accepted to the What is Next in Multimodal Foundation Models? Workshop (MMFM) at CVPR 2024. 
