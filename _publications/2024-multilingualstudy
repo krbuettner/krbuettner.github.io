@@ -6,5 +6,5 @@ date: 2024-11-11
 venue: 'Empirical Methods in Natural Language Processing (EMNLP) (Short)'
 paperurl: 'https://krbuettner.github.io/MultilingualRetrievalStudy/'
 ---
-We quantify performance gaps between training on captions that come from native German perception and captions that have been either machine-translated or human-translated from English into German. To address these gaps, we further propose and evaluate caption augmentation strategies. 
+We quantify performance gaps between training on captions that come from native German perception and captions that have been either machine-translated or human-translated from English into German. To address these gaps, we further propose and evaluate caption augmentation strategies. \
 <img src="../files/intro_3.PNG" width="400">
