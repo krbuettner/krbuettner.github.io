@@ -8,23 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am Kyle, a Ph.D. student researcher in the Intelligent Systems program at the University of Pittsburgh. 
+I am Kyle, a Ph.D. candidate in the Intelligent Systems program at the University of Pittsburgh. 
 
 Overall, I am interested in studying ways to ensure that object-based AI systems can effectively be used by people around the world. 
 
 Specific research interests of mine include:
-- Vision-language modeling
-- Model robustness under domain shift
-- Foundational AI models
-- Object detection
-- Prompt learning
-- AI robustness for diverse cultures and languages
+- Vision-language modeling 
+- VLM understanding of diverse text queries and compositionality 
+- Multilingual modeling
+- Model robustness under distribution shift
+- Object recognition, detection, and image-text retrieval
 
 I currently work in the computer vision group with Dr. Adriana Kovashka at the University of Pittsburgh. 
 
 ## Recent News 
 
-**03-2024** I am serving as an organizer of the [CVPR 2025 DemoDiv Workshop](https://sites.google.com/view/cvpr-2025-demodiv/). 
+**03-2025** I am serving as an organizer of the [CVPR 2025 DemoDiv Workshop](https://sites.google.com/view/cvpr-2025-demodiv/). 
 
 **09-2024** One paper has been accepted to the Empirical Methods in Natural Language Processing (EMNLP) (Short) 2024.
 
