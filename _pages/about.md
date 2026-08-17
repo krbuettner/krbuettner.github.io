@@ -8,20 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am Kyle, a Ph.D. candidate in the Intelligent Systems program at the University of Pittsburgh. 
+I am a scientist focused on building AI systems that not only see and understand the world, but remain reliable, understandable, and useful across the diverse ways people actually use them.
 
-Overall, I am interested in studying ways to ensure that object-based AI systems can effectively be used by people around the world. 
+My main areas of interest are in machine learning, with a focus on computer vision, natural language processing, robustness, and human-centered AI.
 
-Specific research interests of mine include:
-- Vision-language modeling 
-- VLM understanding of diverse text queries and compositionality 
-- Multilingual modeling
-- Model robustness under distribution shift
+I hold a Ph.D. in Intelligent Systems from the University of Pittsburgh and currently work as a data scientist at PNC Financial Services, where I develop AI/ML solutions for financial applications.
+
+Previously, I worked in the computer vision group with Dr. Adriana Kovashka at the University of Pittsburgh.
+
+Specific research areas include:
+- Vision-language modeling
+- Training and adaptation strategies for improving representational robustness (e.g., regularization, data augmentation, and contrastive sampling)
+- Foundation models
+- Data-efficient and parameter-efficient learning
 - Object recognition, detection, and image-text retrieval
-
-I currently work in the computer vision group with Dr. Adriana Kovashka at the University of Pittsburgh. 
+- AI in multilingual and cross-cultural settings
 
 ## Recent News 
+
+**08-2025** I successfully defended my dissertation and completed my Ph.D. Thanks to everyone for the support!
+
+**04-2025** I have started working as a Data Scientist at PNC. 
+
+**09-2024** One paper has been accepted to the International Joint Conference on Natural Language Processing and the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) 2025.
 
 **09-2024** One paper has been accepted to the Empirical Methods in Natural Language Processing (EMNLP) (Short) 2024.
 
